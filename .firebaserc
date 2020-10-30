@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafica-1c808": {
+      "hosting": {
+        "goty": [
+          "firestore-grafica-1c808"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-1c808"
+  }
+}
